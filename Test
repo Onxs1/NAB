@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Meme cryptocurrency - Join the fun world!">
+    <title>Meme Cryptocurrency</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #ff6347;
+            color: white;
+            padding: 20px;
+            text-transform: uppercase;
+            font-weight: bold;
+        }
+        h1 {
+            font-size: 3em;
+        }
+        .intro {
+            padding: 50px 20px;
+            background-color: #f7f7f7;
+            margin-top: 30px;
+        }
+        .cta-button {
+            background-color: #ff6347;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 50px;
+            font-size: 1.5em;
+            margin-top: 20px;
+        }
+        .cta-button:hover {
+            background-color: #e53e2f;
+        }
+        .community-links {
+            background-color: #333;
+            color: white;
+            padding: 30px 0;
+        }
+        .community-links a {
+            color: #ff6347;
+            text-decoration: none;
+            font-size: 1.2em;
+            margin: 0 15px;
+        }
+        .community-links a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            background-color: #222;
+            color: white;
+            padding: 20px;
+            font-size: 0.9em;
+        }
+        .meme-image {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Meme Cryptocurrency</h1>
+    <p>Join the fun cryptocurrency world</p>
+</header>
+
+<div class="intro">
+    <div class="container">
+        <h2>What is Meme Cryptocurrency?</h2>
+        <p>Meme cryptocurrency is a fun, cutting-edge, and community-driven project that brings joy to the world of digital currency!</p>
+        <img src="https://via.placeholder.com/800x400.png?text=Meme+Coin" alt="Meme Coin" class="meme-image">
+        <a href="https://pump.fun/coin/HiGZ82jfLmkFNBTq1qQJGhQabiUzS5Du7iFEaL4ypump#p47260987" class="cta-button">Buy Meme Coin Now!</a>
+    </div>
+</div>
+
+<div class="community-links">
+    <div class="container">
+        <h2>Join Our Meme Community!</h2>
+        <p>Be a part of the biggest meme cryptocurrency community. Follow us and participate in the fun!</p>
+        <a href="https://twitter.com/meemikrypto">Twitter</a>
+        <a href="https://discord.gg/meemikrypto">Discord</a>
+        <a href="https://t.me/meemikrypto">Telegram</a>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2024 Meme Cryptocurrency. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
